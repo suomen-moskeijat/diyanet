@@ -1,0 +1,10 @@
+# Suomen Islamilainen Diyanet Yhdyskunta – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Suomen Islamilainen Diyanet Yhdyskunta"
+description: "Suomen Islamilainen Diyanet Yhdyskunta, Kilpakuja 1, 01280 Vantaa. Rukousajat, tapahtumat ja toiminta."
+moskeija: suomen-islamilainen-diyanet-yhdyskunta     # tiedosto _moskeijat/suomen-islamilainen-diyanet-yhdyskunta.md
+
+# Osoite: https://suomen-moskeijat.github.io/diyanet/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/diyanet"
