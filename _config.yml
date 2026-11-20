@@ -8,3 +8,4 @@ moskeija: suomen-islamilainen-diyanet-yhdyskunta     # tiedosto _moskeijat/suome
 # Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
 url: "https://suomen-moskeijat.github.io"
 baseurl: "/diyanet"
+kielet: [fi]   # sivuston kielivalikko (hallintapaneeli → Asetukset)
